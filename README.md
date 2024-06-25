@@ -1,6 +1,6 @@
 # RegEx
 Description:  
-(INCOMPLETE) Calculates the regular expression into parts when given file input for it.  
+(INCOMPLETE) Finds if there is a match within the regular expression given from the file input for it.  
   
 To compile:  
 make  
